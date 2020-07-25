@@ -15,4 +15,6 @@ I used these resourses to create word lists:
 
 The images have been generated using multiple fonts:
 - a few fonts from https://rastikerdar.github.io/
-- and a some font from https://www.fontirani.ir/
+- and a some font from https://www.fontirani.ir/  
+
+Created by: Amirabbas Asadi (amir137825@gmail.com)
