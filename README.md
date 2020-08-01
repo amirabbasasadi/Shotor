@@ -4,7 +4,7 @@ Shotor (means camel in Persian) is a free synthetic dataset for Word Level OCR.
 
 ![Sample Images](https://raw.githubusercontent.com/amirabbasasadi/Shotor/master/demo.png)  
 
-The current version contains 120000 grayscale images and corresponding words. The words contain only alphabet.  
+The current version contains 120000 grayscale 50*100 images and corresponding words. The words contain only alphabet.  
 **Note: To train a robust model, apply augmentations like scaling, translation, additive noise and ...  on the images.**  
 To see an example of using the Shotor dataset see this notebook:  
 [A simple word level OCR for Persian Language using Pytorch and OpenCV](https://github.com/amirabbasasadi/PersianOCR)  
